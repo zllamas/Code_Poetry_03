@@ -1,6 +1,6 @@
 ###Links:
 
-http://stanford.edu/~mkagen/codepoetryslam/
+search for code poetry slam
 
 http://www.sourcecodepoetry.com
 
