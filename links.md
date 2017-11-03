@@ -1,17 +1,7 @@
-###Links:
+## Links:
 
-search for code poetry slam
+Put your name and link to assignment repository here. Example:
 
-http://www.sourcecodepoetry.com
+Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
-http://code-poems.com
-
-http://www.bcchang.com/art/sounderandrelay/index.php
-
-http://www.ekac.org/media.html
-
-http://www.ekac.org/VDTminitel.html
-
-http://www.ekac.org/mixed2.html
-
-http://www.ioccc.org
+----
