@@ -3,8 +3,7 @@
 Put your name and link to assignment repository here. Example:
 
 Shawn Lawson    https://github.com/shawnlawson/EV9D9
-
-Andie Labgold   https://github.com/alabgold/CodePoetry
+Yihao Zhu
 
 Andie Labgold   https://github.com/alabgold/CodePoetry
 ----
