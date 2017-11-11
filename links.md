@@ -6,4 +6,5 @@ Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 Andie Labgold   https://github.com/alabgold/CodePoetry
 
+Yihao Zhu       https://github.com/syeswr/ArtHW3.git
 ----
