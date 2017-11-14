@@ -11,4 +11,7 @@ Igor Carvalho   https://github.com/IgorCarvai/ACI/tree/master/CodePoetry
 Andie Labgold   https://github.com/alabgold/CodePoetry
 
 Jazmyn Borman	https://github.com/JSBorman/Code-Poetry-ACI
+
+Alex Fig
+https://github.com/figgyfunk/codePoetry.git
 ----
