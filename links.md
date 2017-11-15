@@ -14,6 +14,8 @@ John Noonan   https://github.com/JohnENoonan/IAmAnArtist
 
 Jazmyn Borman	https://github.com/JSBorman/Code-Poetry-ACI
 
+Maddie Kettler  https://github.com/maddiekettler/crisisControl.git
+
 Andrew Aquino   https://github.com/dawneraq/liberation
 
 Omer Osman https://github.com/omerosman/osmano_codepoetry
