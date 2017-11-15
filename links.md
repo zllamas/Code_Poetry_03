@@ -14,6 +14,8 @@ John Noonan   https://github.com/JohnENoonan/IAmAnArtist
 
 Jazmyn Borman	https://github.com/JSBorman/Code-Poetry-ACI
 
+Emily Lockwood https://github.com/lockwe/Code_Poetry.git
+
 Emily Rauseo https://github.com/EmeraldOx/ACI_code_poetry
 
 Uyen Uong		https://github.com/uyenuong/ACI_Assignment3
