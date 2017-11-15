@@ -14,6 +14,8 @@ John Noonan   https://github.com/JohnENoonan/IAmAnArtist
 
 Jazmyn Borman	https://github.com/JSBorman/Code-Poetry-ACI
 
+Jessie Liao     https://github.com/JessieLiao/Code_Poetry
+
 Bohan Chen https://github.com/bohanchen/Code_Poetry
 
 Emily Lockwood https://github.com/lockwe/Code_Poetry.git
